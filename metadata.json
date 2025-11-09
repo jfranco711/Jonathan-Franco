@@ -1,0 +1,5 @@
+{
+  "description": "Build an AI-powered assistant that dynamically analyzes multi-page, multi-modal documents to classify them into Public, Confidential, Highly Sensitive, or Unsafe categories. ",
+  "requestFramePermissions": [],
+  "name": "Copy of Aggie Datathon"
+}
